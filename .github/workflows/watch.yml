@@ -25,7 +25,13 @@ jobs:
           node-version: 22
           cache: npm
       - run: npm ci
-      - run: npx playwright install --with-deps chromium
+      - name: Install the browser (retries, because the package mirrors sometimes blip)
+        run: |
+          for i in 1 2 3; do
+            sudo apt-get update -q && npx playwright install --with-deps chromium && exit 0
+            echo "Install attempt $i failed; trying again in 20s"; sleep 20
+          done
+          exit 1
       - run: node watchdog.mjs
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
