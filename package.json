@@ -1,0 +1,16 @@
+{
+  "name": "site-watchdog",
+  "version": "1.0.0",
+  "description": "Checks my websites every morning in a real browser and opens a GitHub issue when something breaks or gets worse.",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "check": "node watchdog.mjs",
+    "dry": "node watchdog.mjs --dry-run"
+  },
+  "dependencies": {
+    "axe-core": "4.10.2",
+    "playwright": "1.50.1"
+  },
+  "license": "MIT"
+}

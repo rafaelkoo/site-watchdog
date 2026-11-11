@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Portfolio",
+    "url": "https://rafaelkoo.github.io/"
+  },
+  {
+    "name": "Timetable demo",
+    "url": "https://rafaelkoo.github.io/timetable-demo/"
+  },
+  {
+    "name": "Student Tracker demo",
+    "url": "https://rafaelkoo.github.io/tracker-demo/"
+  },
+  {
+    "name": "FitTrack",
+    "url": "https://rafaelkoo.github.io/GymTrackingApp/"
+  },
+  {
+    "name": "Just a Dungeon",
+    "url": "https://rafaelkoo.github.io/Just-a-Dungeon/",
+    "ignore": [
+      "meta-viewport"
+    ],
+    "why": "A full-screen game: pinch-zoom would fight the touch controls, so zoom is turned off on purpose."
+  }
+]
