@@ -1,0 +1,336 @@
+{
+ "checkedAt": "2026-11-11T16:57:25.349Z",
+ "sites": [
+  {
+   "name": "Portfolio",
+   "url": "https://rafaelkoo.github.io/",
+   "desktop": {
+    "view": "desktop",
+    "up": true,
+    "status": 200,
+    "title": "Rafael Ngai",
+    "hasDescription": true,
+    "ttfbMs": 166,
+    "loadMs": 389,
+    "kb": 620,
+    "requests": 7,
+    "overflowPx": 0,
+    "imgNoAlt": 0,
+    "axe": [],
+    "linksChecked": 5,
+    "brokenLinks": [],
+    "jsErrors": [],
+    "failedRequests": []
+   },
+   "phone": {
+    "view": "phone",
+    "up": true,
+    "status": 200,
+    "title": "Rafael Ngai",
+    "hasDescription": true,
+    "ttfbMs": 51,
+    "loadMs": 228,
+    "kb": 620,
+    "requests": 7,
+    "overflowPx": 0,
+    "imgNoAlt": 0,
+    "axe": [],
+    "jsErrors": [],
+    "failedRequests": []
+   },
+   "score": 100,
+   "up": true,
+   "problems": [],
+   "state": "ok"
+  },
+  {
+   "name": "Timetable demo",
+   "url": "https://rafaelkoo.github.io/timetable-demo/",
+   "desktop": {
+    "view": "desktop",
+    "up": true,
+    "status": 200,
+    "title": "Harbour Works Timetable",
+    "hasDescription": false,
+    "ttfbMs": 55,
+    "loadMs": 291,
+    "kb": 523,
+    "requests": 1,
+    "overflowPx": 0,
+    "imgNoAlt": 0,
+    "axe": [
+     {
+      "id": "region",
+      "impact": "moderate",
+      "help": "All page content should be contained by landmarks",
+      "nodes": 28,
+      "where": [
+       "div[data-sid=\"sfrdapx9\"]",
+       "div[data-sid=\"sfsd82oj\"]",
+       "div[data-sid=\"sftdgl2s\"]",
+       "div[data-sid=\"sfudg8q\"]",
+       "div[data-sid=\"sfvda23k\"]"
+      ]
+     }
+    ],
+    "linksChecked": 0,
+    "brokenLinks": [],
+    "jsErrors": [],
+    "failedRequests": []
+   },
+   "phone": {
+    "view": "phone",
+    "up": true,
+    "status": 200,
+    "title": "Harbour Works Timetable",
+    "hasDescription": false,
+    "ttfbMs": 62,
+    "loadMs": 280,
+    "kb": 523,
+    "requests": 1,
+    "overflowPx": 0,
+    "imgNoAlt": 0,
+    "axe": [
+     {
+      "id": "region",
+      "impact": "moderate",
+      "help": "All page content should be contained by landmarks",
+      "nodes": 33,
+      "where": [
+       "div[data-sid=\"sfrdapx9\"]",
+       "div[data-sid=\"sfsd82oj\"]",
+       "div[data-sid=\"sftdgl2s\"]",
+       "div[data-sid=\"sfudg8q\"]",
+       "div[data-sid=\"sfvda23k\"]"
+      ]
+     }
+    ],
+    "jsErrors": [],
+    "failedRequests": []
+   },
+   "score": 99,
+   "up": true,
+   "problems": [],
+   "state": "ok"
+  },
+  {
+   "name": "Student Tracker demo",
+   "url": "https://rafaelkoo.github.io/tracker-demo/",
+   "desktop": {
+    "view": "desktop",
+    "up": true,
+    "status": 200,
+    "title": "Learning · Harbour Works (demo)",
+    "hasDescription": false,
+    "ttfbMs": 60,
+    "loadMs": 333,
+    "kb": 250,
+    "requests": 2,
+    "overflowPx": 0,
+    "imgNoAlt": 0,
+    "axe": [
+     {
+      "id": "page-has-heading-one",
+      "impact": "moderate",
+      "help": "Page should contain a level-one heading",
+      "nodes": 1,
+      "where": [
+       "html"
+      ]
+     },
+     {
+      "id": "region",
+      "impact": "moderate",
+      "help": "All page content should be contained by landmarks",
+      "nodes": 1,
+      "where": [
+       "#demoStrip"
+      ]
+     }
+    ],
+    "linksChecked": 1,
+    "brokenLinks": [],
+    "jsErrors": [],
+    "failedRequests": []
+   },
+   "phone": {
+    "view": "phone",
+    "up": true,
+    "status": 200,
+    "title": "Learning · Harbour Works (demo)",
+    "hasDescription": false,
+    "ttfbMs": 58,
+    "loadMs": 171,
+    "kb": 250,
+    "requests": 2,
+    "overflowPx": 0,
+    "imgNoAlt": 0,
+    "axe": [
+     {
+      "id": "page-has-heading-one",
+      "impact": "moderate",
+      "help": "Page should contain a level-one heading",
+      "nodes": 1,
+      "where": [
+       "html"
+      ]
+     },
+     {
+      "id": "region",
+      "impact": "moderate",
+      "help": "All page content should be contained by landmarks",
+      "nodes": 1,
+      "where": [
+       "#demoStrip"
+      ]
+     }
+    ],
+    "jsErrors": [],
+    "failedRequests": []
+   },
+   "score": 98,
+   "up": true,
+   "problems": [],
+   "state": "ok"
+  },
+  {
+   "name": "FitTrack",
+   "url": "https://rafaelkoo.github.io/GymTrackingApp/",
+   "desktop": {
+    "view": "desktop",
+    "up": true,
+    "status": 200,
+    "title": "FitTrack",
+    "hasDescription": true,
+    "ttfbMs": 91,
+    "loadMs": 632,
+    "kb": 219,
+    "requests": 10,
+    "overflowPx": 0,
+    "imgNoAlt": 0,
+    "axe": [],
+    "linksChecked": 0,
+    "brokenLinks": [],
+    "jsErrors": [],
+    "failedRequests": []
+   },
+   "phone": {
+    "view": "phone",
+    "up": true,
+    "status": 200,
+    "title": "FitTrack",
+    "hasDescription": true,
+    "ttfbMs": 57,
+    "loadMs": 421,
+    "kb": 219,
+    "requests": 10,
+    "overflowPx": 0,
+    "imgNoAlt": 0,
+    "axe": [],
+    "jsErrors": [],
+    "failedRequests": []
+   },
+   "score": 100,
+   "up": true,
+   "problems": [],
+   "state": "ok"
+  },
+  {
+   "name": "Just a Dungeon",
+   "url": "https://rafaelkoo.github.io/Just-a-Dungeon/",
+   "desktop": {
+    "view": "desktop",
+    "up": true,
+    "status": 200,
+    "title": "Dungeon Beta 5",
+    "hasDescription": false,
+    "ttfbMs": 54,
+    "loadMs": 346,
+    "kb": 1642,
+    "requests": 15,
+    "overflowPx": 0,
+    "imgNoAlt": 0,
+    "axe": [
+     {
+      "id": "heading-order",
+      "impact": "moderate",
+      "help": "Heading levels should only increase by one",
+      "nodes": 1,
+      "where": [
+       ".quest > .statline > h3"
+      ]
+     },
+     {
+      "id": "landmark-one-main",
+      "impact": "moderate",
+      "help": "Document should have one main landmark",
+      "nodes": 1,
+      "where": [
+       "html"
+      ]
+     },
+     {
+      "id": "region",
+      "impact": "moderate",
+      "help": "All page content should be contained by landmarks",
+      "nodes": 17,
+      "where": [
+       "#game",
+       ".topbar",
+       "h1",
+       ".quest",
+       ".card:nth-child(3) > h3"
+      ]
+     }
+    ],
+    "linksChecked": 0,
+    "brokenLinks": [],
+    "jsErrors": [],
+    "failedRequests": []
+   },
+   "phone": {
+    "view": "phone",
+    "up": true,
+    "status": 200,
+    "title": "Dungeon Beta 5",
+    "hasDescription": false,
+    "ttfbMs": 83,
+    "loadMs": 303,
+    "kb": 1642,
+    "requests": 15,
+    "overflowPx": 0,
+    "imgNoAlt": 0,
+    "axe": [
+     {
+      "id": "heading-order",
+      "impact": "moderate",
+      "help": "Heading levels should only increase by one",
+      "nodes": 1,
+      "where": [
+       ".quest > .statline > h3"
+      ]
+     },
+     {
+      "id": "region",
+      "impact": "moderate",
+      "help": "All page content should be contained by landmarks",
+      "nodes": 17,
+      "where": [
+       "#game",
+       ".topbar",
+       "h1",
+       ".quest",
+       ".card:nth-child(3) > h3"
+      ]
+     }
+    ],
+    "jsErrors": [],
+    "failedRequests": []
+   },
+   "score": 98,
+   "up": true,
+   "problems": [],
+   "state": "ok"
+  }
+ ]
+}
