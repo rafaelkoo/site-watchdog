@@ -1,5 +1,5 @@
 {
- "checkedAt": "2026-11-26T16:52:47.890Z",
+ "checkedAt": "2026-11-27T15:48:24.475Z",
  "sites": [
   {
    "name": "Portfolio",
@@ -10,10 +10,10 @@
     "status": 200,
     "title": "Rafael Ngai",
     "hasDescription": true,
-    "ttfbMs": 122,
-    "loadMs": 379,
-    "kb": 624,
-    "requests": 7,
+    "ttfbMs": 166,
+    "loadMs": 929,
+    "kb": 557,
+    "requests": 9,
     "overflowPx": 0,
     "imgNoAlt": 0,
     "axe": [],
@@ -28,10 +28,10 @@
     "status": 200,
     "title": "Rafael Ngai",
     "hasDescription": true,
-    "ttfbMs": 21,
-    "loadMs": 135,
-    "kb": 427,
-    "requests": 6,
+    "ttfbMs": 26,
+    "loadMs": 178,
+    "kb": 532,
+    "requests": 8,
     "overflowPx": 0,
     "imgNoAlt": 0,
     "axe": [],
@@ -52,27 +52,13 @@
     "status": 200,
     "title": "Harbour Works Timetable",
     "hasDescription": false,
-    "ttfbMs": 18,
-    "loadMs": 327,
+    "ttfbMs": 36,
+    "loadMs": 359,
     "kb": 523,
     "requests": 1,
     "overflowPx": 0,
     "imgNoAlt": 0,
-    "axe": [
-     {
-      "id": "region",
-      "impact": "moderate",
-      "help": "All page content should be contained by landmarks",
-      "nodes": 31,
-      "where": [
-       "div[data-sid=\"sfrdapx9\"]",
-       "div[data-sid=\"sfsd82oj\"]",
-       "div[data-sid=\"sftdgl2s\"]",
-       "div[data-sid=\"sfudg8q\"]",
-       "div[data-sid=\"sfvda23k\"]"
-      ]
-     }
-    ],
+    "axe": [],
     "linksChecked": 0,
     "brokenLinks": [],
     "jsErrors": [],
@@ -84,31 +70,17 @@
     "status": 200,
     "title": "Harbour Works Timetable",
     "hasDescription": false,
-    "ttfbMs": 15,
-    "loadMs": 173,
+    "ttfbMs": 27,
+    "loadMs": 188,
     "kb": 523,
     "requests": 1,
     "overflowPx": 0,
     "imgNoAlt": 0,
-    "axe": [
-     {
-      "id": "region",
-      "impact": "moderate",
-      "help": "All page content should be contained by landmarks",
-      "nodes": 36,
-      "where": [
-       "div[data-sid=\"sfrdapx9\"]",
-       "div[data-sid=\"sfsd82oj\"]",
-       "div[data-sid=\"sftdgl2s\"]",
-       "div[data-sid=\"sfudg8q\"]",
-       "div[data-sid=\"sfvda23k\"]"
-      ]
-     }
-    ],
+    "axe": [],
     "jsErrors": [],
     "failedRequests": []
    },
-   "score": 99,
+   "score": 100,
    "up": true,
    "problems": [],
    "state": "ok"
@@ -122,32 +94,13 @@
     "status": 200,
     "title": "Learning · Harbour Works (demo)",
     "hasDescription": false,
-    "ttfbMs": 23,
-    "loadMs": 98,
-    "kb": 250,
+    "ttfbMs": 28,
+    "loadMs": 146,
+    "kb": 251,
     "requests": 2,
     "overflowPx": 0,
     "imgNoAlt": 0,
-    "axe": [
-     {
-      "id": "page-has-heading-one",
-      "impact": "moderate",
-      "help": "Page should contain a level-one heading",
-      "nodes": 1,
-      "where": [
-       "html"
-      ]
-     },
-     {
-      "id": "region",
-      "impact": "moderate",
-      "help": "All page content should be contained by landmarks",
-      "nodes": 1,
-      "where": [
-       "#demoStrip"
-      ]
-     }
-    ],
+    "axe": [],
     "linksChecked": 1,
     "brokenLinks": [],
     "jsErrors": [],
@@ -159,36 +112,17 @@
     "status": 200,
     "title": "Learning · Harbour Works (demo)",
     "hasDescription": false,
-    "ttfbMs": 14,
-    "loadMs": 93,
-    "kb": 250,
+    "ttfbMs": 27,
+    "loadMs": 143,
+    "kb": 251,
     "requests": 2,
     "overflowPx": 0,
     "imgNoAlt": 0,
-    "axe": [
-     {
-      "id": "page-has-heading-one",
-      "impact": "moderate",
-      "help": "Page should contain a level-one heading",
-      "nodes": 1,
-      "where": [
-       "html"
-      ]
-     },
-     {
-      "id": "region",
-      "impact": "moderate",
-      "help": "All page content should be contained by landmarks",
-      "nodes": 1,
-      "where": [
-       "#demoStrip"
-      ]
-     }
-    ],
+    "axe": [],
     "jsErrors": [],
     "failedRequests": []
    },
-   "score": 98,
+   "score": 100,
    "up": true,
    "problems": [],
    "state": "ok"
@@ -202,8 +136,8 @@
     "status": 200,
     "title": "FitTrack",
     "hasDescription": true,
-    "ttfbMs": 11,
-    "loadMs": 248,
+    "ttfbMs": 26,
+    "loadMs": 635,
     "kb": 219,
     "requests": 10,
     "overflowPx": 0,
@@ -220,8 +154,8 @@
     "status": 200,
     "title": "FitTrack",
     "hasDescription": true,
-    "ttfbMs": 11,
-    "loadMs": 156,
+    "ttfbMs": 28,
+    "loadMs": 236,
     "kb": 219,
     "requests": 10,
     "overflowPx": 0,
@@ -244,45 +178,13 @@
     "status": 200,
     "title": "Dungeon Beta 5",
     "hasDescription": false,
-    "ttfbMs": 17,
-    "loadMs": 276,
+    "ttfbMs": 32,
+    "loadMs": 349,
     "kb": 1642,
     "requests": 15,
     "overflowPx": 0,
     "imgNoAlt": 0,
-    "axe": [
-     {
-      "id": "heading-order",
-      "impact": "moderate",
-      "help": "Heading levels should only increase by one",
-      "nodes": 1,
-      "where": [
-       ".quest > .statline > h3"
-      ]
-     },
-     {
-      "id": "landmark-one-main",
-      "impact": "moderate",
-      "help": "Document should have one main landmark",
-      "nodes": 1,
-      "where": [
-       "html"
-      ]
-     },
-     {
-      "id": "region",
-      "impact": "moderate",
-      "help": "All page content should be contained by landmarks",
-      "nodes": 17,
-      "where": [
-       "#game",
-       ".topbar",
-       "h1",
-       ".quest",
-       ".card:nth-child(3) > h3"
-      ]
-     }
-    ],
+    "axe": [],
     "linksChecked": 0,
     "brokenLinks": [],
     "jsErrors": [],
@@ -294,40 +196,17 @@
     "status": 200,
     "title": "Dungeon Beta 5",
     "hasDescription": false,
-    "ttfbMs": 32,
-    "loadMs": 174,
+    "ttfbMs": 27,
+    "loadMs": 177,
     "kb": 1642,
     "requests": 15,
     "overflowPx": 0,
     "imgNoAlt": 0,
-    "axe": [
-     {
-      "id": "heading-order",
-      "impact": "moderate",
-      "help": "Heading levels should only increase by one",
-      "nodes": 1,
-      "where": [
-       ".quest > .statline > h3"
-      ]
-     },
-     {
-      "id": "region",
-      "impact": "moderate",
-      "help": "All page content should be contained by landmarks",
-      "nodes": 17,
-      "where": [
-       "#game",
-       ".topbar",
-       "h1",
-       ".quest",
-       ".card:nth-child(3) > h3"
-      ]
-     }
-    ],
+    "axe": [],
     "jsErrors": [],
     "failedRequests": []
    },
-   "score": 98,
+   "score": 100,
    "up": true,
    "problems": [],
    "state": "ok"
